@@ -14,22 +14,22 @@
 1. Clone the Repository
 
     ```bash
-git clone https://github.com/dhruvjaiswal2981/File-Sharing-System.git
-cd file-sharing-system
+    git clone https://github.com/dhruvjaiswal2981/File-Sharing-System.git
+    cd file-sharing-system
 
 2. Install Dependencies
 
 - Use the requirements.txt file to install all required dependencies:
     
     ```bash
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3. Run the Application
 
 - Start the FastAPI server with Uvicorn:
 
     ```bash
-uvicorn main:app --reload
+    uvicorn main:app --reload
 
 
 ## Project Structure
