@@ -33,15 +33,15 @@
 
 
 ## Project Structure
-
-file_sharing_system/
-├── main.py           # Main FastAPI application
-├── database.py       # Database configuration and connection
-├── models.py         # SQLAlchemy models
-├── schemas.py        # Pydantic schemas for request/response validation
-├── requirements.txt  # Python dependencies
-└── README.md         # Project documentation
-
+- Start the project structure
+    ```bash
+    file_sharing_system/
+    ├── main.py           # Main FastAPI application
+    ├── database.py       # Database configuration and connection
+    ├── models.py         # SQLAlchemy models
+    ├── schemas.py        # Pydantic schemas for request/response validation
+    ├── requirements.txt  # Python dependencies
+    └── README.md         # Project documentation
 
 ## API Endpoints
 
