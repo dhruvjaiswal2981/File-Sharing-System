@@ -79,15 +79,15 @@
     "file_url": "http://example.com/example.txt"
     }
 
-3. API Documentation
-    - Swagger UI: http://127.0.0.1:8000/docs
-    - ReDoc: http://127.0.0.1:8000/redoc
+3. Deployment API Documentation
+    - Swagger UI: https://file-sharing-system-7zts.onrender.com/docs
+    - ReDoc: https://file-sharing-system-7zts.onrender.com/redoc
 
 ## Running Tests
 
 - To test the endpoints:
 
     1. Use tools like Postman or cURL.
-    2. Alternatively, interact directly with the Swagger UI at http://127.0.0.1:8000/docs.
+    2. Alternatively, interact directly with the Swagger UI at https://file-sharing-system-7zts.onrender.com/docs.
 
 
